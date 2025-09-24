@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75BE803F-EFD3-4986-8C53-01B6C4BB4D9B}|Kurinna.TaskPlanner\\Kurinna.TaskPlanner.csproj|c:\\users\\\u044E\u043B\u044F\\desktop\\kurinna.taskplanner\\kurinna.taskplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75BE803F-EFD3-4986-8C53-01B6C4BB4D9B}|Kurinna.TaskPlanner\\Kurinna.TaskPlanner.csproj|solutionrelative:kurinna.taskplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner\\Program.cs",
+              "RelativeDocumentMoniker": "Kurinna.TaskPlanner\\Program.cs",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner\\Program.cs",
+              "RelativeToolTip": "Kurinna.TaskPlanner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T08:25:10.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
