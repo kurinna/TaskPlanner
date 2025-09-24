@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{75BE803F-EFD3-4986-8C53-01B6C4BB4D9B}|Kurinna.TaskPlanner\\Kurinna.TaskPlanner.csproj|c:\\users\\\u044E\u043B\u044F\\desktop\\kurinna.taskplanner\\kurinna.taskplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75BE803F-EFD3-4986-8C53-01B6C4BB4D9B}|Kurinna.TaskPlanner\\Kurinna.TaskPlanner.csproj|solutionrelative:kurinna.taskplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28DAC7D-6B5B-445E-B08F-A9716CEB342E}|Kurinna.TaskPlanner.Domain.Logic\\Kurinna.TaskPlanner.Domain.Logic.csproj|c:\\users\\\u044E\u043B\u044F\\desktop\\kurinna.taskplanner\\kurinna.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28DAC7D-6B5B-445E-B08F-A9716CEB342E}|Kurinna.TaskPlanner.Domain.Logic\\Kurinna.TaskPlanner.Domain.Logic.csproj|solutionrelative:kurinna.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}|Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj|c:\\users\\\u044E\u043B\u044F\\desktop\\kurinna.taskplanner\\kurinna.taskplanner.domain.models\\kurinna.taskplanner.domain.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}|Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj|solutionrelative:kurinna.taskplanner.domain.models\\kurinna.taskplanner.domain.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28DAC7D-6B5B-445E-B08F-A9716CEB342E}|Kurinna.TaskPlanner.Domain.Logic\\Kurinna.TaskPlanner.Domain.Logic.csproj|c:\\users\\\u044E\u043B\u044F\\desktop\\kurinna.taskplanner\\kurinna.taskplanner.domain.logic\\kurinna.taskplanner.domain.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A28DAC7D-6B5B-445E-B08F-A9716CEB342E}|Kurinna.TaskPlanner.Domain.Logic\\Kurinna.TaskPlanner.Domain.Logic.csproj|solutionrelative:kurinna.taskplanner.domain.logic\\kurinna.taskplanner.domain.logic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}|Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj|c:\\users\\\u044E\u043B\u044F\\desktop\\kurinna.taskplanner\\kurinna.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}|Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj|solutionrelative:kurinna.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}|Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj|c:\\users\\\u044E\u043B\u044F\\desktop\\kurinna.taskplanner\\kurinna.taskplanner.domain.models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}|Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj|solutionrelative:kurinna.taskplanner.domain.models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}|Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj|c:\\users\\\u044E\u043B\u044F\\desktop\\kurinna.taskplanner\\kurinna.taskplanner.domain.models\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}|Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj|solutionrelative:kurinna.taskplanner.domain.models\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +38,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kurinna.TaskPlanner.Domain.Logic",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Logic\\Kurinna.TaskPlanner.Domain.Logic.csproj",
+              "RelativeDocumentMoniker": "Kurinna.TaskPlanner.Domain.Logic\\Kurinna.TaskPlanner.Domain.Logic.csproj",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Logic\\Kurinna.TaskPlanner.Domain.Logic.csproj",
+              "RelativeToolTip": "Kurinna.TaskPlanner.Domain.Logic\\Kurinna.TaskPlanner.Domain.Logic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T19:56:08.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kurinna.TaskPlanner.Domain.Models",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj",
+              "RelativeDocumentMoniker": "Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj",
+              "RelativeToolTip": "Kurinna.TaskPlanner.Domain.Models\\Kurinna.TaskPlanner.Domain.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T17:57:20.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "Kurinna.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "Kurinna.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:33:33.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Workitem.cs",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Models\\Workitem.cs",
+              "RelativeDocumentMoniker": "Kurinna.TaskPlanner.Domain.Models\\Workitem.cs",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Models\\Workitem.cs",
+              "RelativeToolTip": "Kurinna.TaskPlanner.Domain.Models\\Workitem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:17:43.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Complexity.cs",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Models\\Complexity.cs",
+              "RelativeDocumentMoniker": "Kurinna.TaskPlanner.Domain.Models\\Complexity.cs",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Models\\Complexity.cs",
+              "RelativeToolTip": "Kurinna.TaskPlanner.Domain.Models\\Complexity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:13:43.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Models\\Priority.cs",
+              "RelativeDocumentMoniker": "Kurinna.TaskPlanner.Domain.Models\\Priority.cs",
+              "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner.Domain.Models\\Priority.cs",
+              "RelativeToolTip": "Kurinna.TaskPlanner.Domain.Models\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T17:10:07.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +126,7 @@
               "RelativeDocumentMoniker": "Kurinna.TaskPlanner\\Program.cs",
               "ToolTip": "C:\\Users\\\u042E\u043B\u044F\\Desktop\\Kurinna.TaskPlanner\\Kurinna.TaskPlanner\\Program.cs",
               "RelativeToolTip": "Kurinna.TaskPlanner\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwBMAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T08:25:10.691Z",
               "EditorCaption": ""

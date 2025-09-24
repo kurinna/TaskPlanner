@@ -49,5 +49,18 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Kurinna.TaskPlanner.Domain.Logic\Kurinna.TaskPlanner.Domain.Logic.csproj">
+      <Project>{a28dac7d-6b5b-445e-b08f-a9716ceb342e}</Project>
+      <Name>Kurinna.TaskPlanner.Domain.Logic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Kurinna.TaskPlanner.Domain.Models\Kurinna.TaskPlanner.Domain.Models.csproj">
+      <Project>{98cdc7d7-f900-4575-b23a-d9a8fbb51a87}</Project>
+      <Name>Kurinna.TaskPlanner.Domain.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,7 +1,12 @@
 C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\bin\Debug\Kurinna.TaskPlanner.exe.config
 C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\bin\Debug\Kurinna.TaskPlanner.exe
 C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\bin\Debug\Kurinna.TaskPlanner.pdb
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\bin\Debug\Kurinna.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\bin\Debug\Kurinna.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\bin\Debug\Kurinna.TaskPlanner.Domain.Logic.pdb
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\bin\Debug\Kurinna.TaskPlanner.Domain.Models.pdb
 C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\obj\Debug\Kurinna.TaskPlanner.csproj.AssemblyReference.cache
 C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\obj\Debug\Kurinna.TaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\obj\Debug\Kurinna..6ABF6936.Up2Date
 C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\obj\Debug\Kurinna.TaskPlanner.exe
 C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner\obj\Debug\Kurinna.TaskPlanner.pdb
