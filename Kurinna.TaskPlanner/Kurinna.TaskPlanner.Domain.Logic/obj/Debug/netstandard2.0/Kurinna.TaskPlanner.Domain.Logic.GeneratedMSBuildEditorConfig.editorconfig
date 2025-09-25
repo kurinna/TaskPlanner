@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Kurinna.TaskPlanner.Domain.Logic
+build_property.ProjectDir = C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

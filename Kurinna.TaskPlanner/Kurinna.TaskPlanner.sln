@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurinna.TaskPlanner", "Kurinna.TaskPlanner\Kurinna.TaskPlanner.csproj", "{75BE803F-EFD3-4986-8C53-01B6C4BB4D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurinna.TaskPlanner.Domain.Models", "Kurinna.TaskPlanner.Domain.Models\Kurinna.TaskPlanner.Domain.Models.csproj", "{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kurinna.TaskPlanner.Domain.Logic", "Kurinna.TaskPlanner.Domain.Logic\Kurinna.TaskPlanner.Domain.Logic.csproj", "{A28DAC7D-6B5B-445E-B08F-A9716CEB342E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{75BE803F-EFD3-4986-8C53-01B6C4BB4D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75BE803F-EFD3-4986-8C53-01B6C4BB4D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75BE803F-EFD3-4986-8C53-01B6C4BB4D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CDC7D7-F900-4575-B23A-D9A8FBB51A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A28DAC7D-6B5B-445E-B08F-A9716CEB342E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28DAC7D-6B5B-445E-B08F-A9716CEB342E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28DAC7D-6B5B-445E-B08F-A9716CEB342E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28DAC7D-6B5B-445E-B08F-A9716CEB342E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

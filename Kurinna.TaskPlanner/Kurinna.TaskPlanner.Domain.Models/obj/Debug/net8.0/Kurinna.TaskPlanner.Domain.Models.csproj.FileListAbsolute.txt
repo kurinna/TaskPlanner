@@ -1,0 +1,11 @@
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\bin\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.deps.json
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\bin\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\bin\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\Kurinna.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\Kurinna.TaskPlanner.Domain.Models.dll

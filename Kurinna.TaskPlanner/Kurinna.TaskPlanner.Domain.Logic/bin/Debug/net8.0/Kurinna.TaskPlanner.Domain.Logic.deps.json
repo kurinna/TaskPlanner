@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Kurinna.TaskPlanner.Domain.Logic/1.0.0": {
+        "dependencies": {
+          "Kurinna.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Kurinna.TaskPlanner.Domain.Logic.dll": {}
+        }
+      },
+      "Kurinna.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "Kurinna.TaskPlanner.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kurinna.TaskPlanner.Domain.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kurinna.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

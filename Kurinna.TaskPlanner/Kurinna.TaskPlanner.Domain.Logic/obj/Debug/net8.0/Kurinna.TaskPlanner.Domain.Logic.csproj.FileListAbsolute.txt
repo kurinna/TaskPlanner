@@ -1,0 +1,15 @@
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.deps.json
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.pdb
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.dll
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Kurinna.TaskPlanner.Domain.Models.pdb
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Kurinna..48A3BB6D.Up2Date
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\Kurinna.TaskPlanner.Domain.Logic.dll
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Kurinna.TaskPlanner.Domain.Logic.pdb
+C:\Users\Юля\Desktop\Kurinna.TaskPlanner\Kurinna.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\Kurinna.TaskPlanner.Domain.Logic.dll
