@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Kurinna.TaskPlanner.Domain.Models\Kurinna.TaskPlanner.Domain.Models.csproj" />
+	  <ProjectReference Include="..\Kurinna.TaskPlanner.DataAccess.Abstractions\Kurinna.TaskPlanner.DataAccess.Abstractions.csproj" />
+  </ItemGroup>
+
+</Project>
